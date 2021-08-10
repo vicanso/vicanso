@@ -2,10 +2,8 @@
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api/?username=vicanso&show_icons=true&title_color=F08C00&icon_color=FA8B00&text_color=F08C00&bg_color=151515&locale=en&hide_border=true" alt="vicanso"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=vicanso&show_icons=true&title_color=F08C00&icon_color=FA8B00&text_color=F08C00&bg_color=151515&locale=en&hide_border=true" alt="vicanso"/></p>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
