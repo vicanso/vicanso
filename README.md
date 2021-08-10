@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm TreeXie</h1>
 
-<!--
-**vicanso/vicanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Github Stats:</h3>
+
+<p><img src="https://github-readme-stats.vercel.app/api/?username=vicanso&show_icons=true&title_color=F08C00&icon_color=FA8B00&text_color=F08C00&bg_color=151515&locale=en&hide_border=true" alt="vicanso"/></p>
+
 
 Here are some ideas to get you started:
 
